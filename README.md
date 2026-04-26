@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rimo10&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" alt="rimo10 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimo10&theme=vision-friendly-dark&hide_border=true" width="48%" alt="rimo10 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimo02&theme=vision-friendly-dark&hide_border=true" width="48%" alt="rimo10 streak" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🧠 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimo10&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimo02&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rimo10/rimo10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rimo02/rimo02/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
