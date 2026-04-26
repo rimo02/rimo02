@@ -1,32 +1,66 @@
-<h1 align="center">Hi 👋, I'm Rimo Ghosh.</h1>
-<h3 align="center">I'm Passionate about ML and love exploring new stuff</h3>
+# Hi 👋, I'm Rimo Ghosh
+**AI Research Enthusiast | Backend Developer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimo10" alt="rimo10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rimoghosh19" target="blank"><img src="https://img.shields.io/twitter/follow/rimoghosh19?logo=twitter&style=for-the-badge" alt="rimoghosh19" /></a> </p>
-
-- 🔭 I’m currently working on **Python,C/C++ and Machine Learning.**
-
-- 🌱 I’m currently learning **Neural Networks and Backend Development.**
-
-- 👯 I’m looking to collaborate on **ML projects.**
-
-- 💬 Ask me about **anything related to these stuffs.**
-
-- 📫 How to reach me **ghoshrimo02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rimoghosh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimoghosh19" height="30" width="40" /></a>
+  <a href="https://twitter.com/rimoghosh19" target="blank"><img src="https://img.shields.io/twitter/follow/rimoghosh19?logo=twitter&style=for-the-badge&color=1DA1F2" alt="rimoghosh19" /></a>
+  <a href="https://github.com/rimo10"><img src="https://img.shields.io/github/stars/rimo10?style=for-the-badge&color=ffd700" alt="GitHub Stars" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> </br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"></br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimo10&show_icons=true&locale=en&layout=compact" alt="rimo10" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimo10&show_icons=true&locale=en" alt="rimo10" /></p>
+I am a **Systems Engineer at Tata Consultancy Services (TCS)**, currently modernizing enterprise systems from COBOL to **Java Spring Boot microservices**. Beyond my professional work, I am deeply passionate about **Computer Vision** and **Foundation Models**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimo10&" alt="rimo10" /></p>
+- 🔭 **Currently focusing on:** Migrating large-scale enterprise architectures and preparing for the GATE (CS).
+- 🧠 **Research Interests:** Semantic segmentation, real-time lane detection, and AI for Indian road conditions.
+- 🎓 **Education:** B.Tech in CSE from KIIT University ('25).
+- 🎯 **Goal:** Pursuing an MS by Research at IIT Madras to dive deeper into Neural Networks.
+- ⚡ **Fun Fact:** I prefer debt-free ownership—I bought my first car (Tata Nexon) with cash!
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Machine Learning & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Backend & Web**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 📝 Recent Research & Projects
+
+* **IndiRTS:** Real-time semantic segmentation optimized for Indian road conditions.
+* **EUnet:** A real-time lane detection model.
+* **Enterprise Migration:** Refactoring legacy COBOL systems into scalable Java microservices.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimo10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rimo10&show_icons=true&locale=en&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimo10&theme=vision-friendly-dark" alt="rimo10" />
+</p>
+
+---
+
+### 📫 Connect with me
+- **Email:** [ghoshrimo02@gmail.com](mailto:ghoshrimo02@gmail.com)
+- **Twitter:** [@rimoghosh19](https://twitter.com/rimoghosh19)
