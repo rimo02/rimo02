@@ -10,13 +10,11 @@
 
 ### 🚀 About Me
 
-I am a **Systems Engineer at Tata Consultancy Services (TCS)**, currently modernizing enterprise systems from COBOL to **Java Spring Boot microservices**. Beyond my professional work, I am deeply passionate about **Computer Vision** and **Foundation Models**.
+I am a **Systems Engineer at Tata Consultancy Services (TCS)**, currently modernizing enterprise systems to **Java Spring Boot microservices**. Beyond my professional work, I am deeply passionate about **Reinforcement Learning** and **Foundation Models**.
 
-- 🔭 **Currently focusing on:** Migrating large-scale enterprise architectures and preparing for the GATE (CS).
-- 🧠 **Research Interests:** Semantic segmentation, real-time lane detection, and AI for Indian road conditions.
+- 🔭 **Currently focusing on:** Migrating large-scale enterprise architectures.
+- 🧠 **Research Interests:** Reinforcement Learning, World Models and making models work with limited computation.
 - 🎓 **Education:** B.Tech in CSE from KIIT University ('25).
-- 🎯 **Goal:** Pursuing an MS by Research at IIT Madras to dive deeper into Neural Networks.
-- ⚡ **Fun Fact:** I prefer debt-free ownership—I bought my first car (Tata Nexon) with cash!
 
 ---
 
